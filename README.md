@@ -28,5 +28,7 @@ ultimately resulting in a net loss of money, or "reward."
 The code is pretty bare and simple, and there are many ways to improve upon it, such as:
 
 Better visualization
+
 Simulate a testing agent
+
 Tweak hyperparameters
