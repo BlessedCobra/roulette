@@ -34,5 +34,8 @@ Simulate a testing agent
 Tweak hyperparameters
 
 
+Source code for the Roulette-v0 environment itself can be found here: https://github.com/openai/gym/blob/master/gym/envs/toy_text/roulette.py
+
+
 Credit to https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
 for providing base code for the Q-Learning portion.
