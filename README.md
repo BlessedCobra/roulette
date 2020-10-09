@@ -32,3 +32,7 @@ Better visualization
 Simulate a testing agent
 
 Tweak hyperparameters
+
+
+Credit to https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+for providing base code for the Q-Learning portion.
